@@ -19,9 +19,5 @@ int main() {
     else {
         cout << "It is a special character." << endl;
     }
-    return 0;
-}
-
-    return 0;
 }
 
